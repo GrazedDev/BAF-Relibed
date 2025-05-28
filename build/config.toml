@@ -1,0 +1,11 @@
+# Bed flips are clicked 3 times with this setting. First delay in milliseconds before it should mathematically work. Once exactly at the time and once after the time. Disable it with a value less than 0.
+BED_MULTIPLE_CLICKS_DELAY = 50
+ENABLE_CONSOLE_INPUT = true
+FLIP_ACTION_DELAY = 100
+INGAME_NAME = "Endermank1llerz"
+USE_COFL_CHAT = true
+WEBHOOK_URL = ""
+WEBSOCKET_URL = "wss://sky.coflnet.com/modsocket"
+[SESSIONS.Endermank1llerz]
+expires = 2025-11-24T13:21:17Z
+id = "e4d977bf-ddca-4315-99f5-de878c5cf440"

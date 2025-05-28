@@ -1,0 +1,1 @@
+tsc && pkg ./build/BAF.js --targets node18-win-x64 --output ./executables/BAF-Relibed

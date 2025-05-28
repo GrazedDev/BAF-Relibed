@@ -1,0 +1,230 @@
+{
+  level: 'info',
+  message: 'Called connectWebsocket for wss://sky.coflnet.com/modsocket',
+  timestamp: '2025-05-28T21:21:17.941Z'
+}
+{
+  level: 'info',
+  message: 'Opened websocket to wss://sky.coflnet.com/modsocket',
+  timestamp: '2025-05-28T21:21:18.828Z'
+}
+{
+  type: 'writeToChat',
+  data: '{"text":"[§1C§6oflnet§f]§7: §7Established connection, loading settings...","onClick":"https://discord.gg/wvKXfTgCfb","hover":"Attempting to load your settings on sky-mod-commands-58b6657f54-2pjjl conId: 1aac150103e5cdd4a5e7dbd03d690c71"}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:18.838Z'
+}
+{
+  type: 'chatMessage',
+  data: `[{"text":"[§1C§6oflnet§f]§7: ","onClick":null,"hover":null},{"text":"Please §lclick https://sky.coflnet.com/authmod?mcid=Endermank1llerz&conId=cujljWfPrNp9hyqP1JtmFzE%3d to login","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null},{"text":"Until you do you are using the free version which will make less profit and your settings won't be saved","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null}]`,
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:18.897Z'
+}
+{
+  type: 'chatMessage',
+  data: `[{"text":"[§1C§6oflnet§f]§7: ","onClick":null,"hover":null},{"text":"Please §lclick https://sky.coflnet.com/authmod?mcid=Endermank1llerz&conId=cujljWfPrNp9hyqP1JtmFzE%3d to login","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null},{"text":"Until you do you are using the free version which will make less profit and your settings won't be saved","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null}]`,
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:18.897Z'
+}
+{
+  type: 'chatMessage',
+  data: `[{"text":"[§1C§6oflnet§f]§7: ","onClick":null,"hover":null},{"text":"Please §lclick https://sky.coflnet.com/authmod?mcid=Endermank1llerz&conId=cujljWfPrNp9hyqP1JtmFzE%3d to login","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null},{"text":"Until you do you are using the free version which will make less profit and your settings won't be saved","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null}]`,
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:18.897Z'
+}
+{
+  type: 'chatMessage',
+  data: `[{"text":"[§1C§6oflnet§f]§7: ","onClick":null,"hover":null},{"text":"Please §lclick https://sky.coflnet.com/authmod?mcid=Endermank1llerz&conId=cujljWfPrNp9hyqP1JtmFzE%3d to login","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null},{"text":"Until you do you are using the free version which will make less profit and your settings won't be saved","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null}]`,
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:18.897Z'
+}
+{
+  type: 'chatMessage',
+  data: `[{"text":"[§1C§6oflnet§f]§7: ","onClick":null,"hover":null},{"text":"Please §lclick https://sky.coflnet.com/authmod?mcid=Endermank1llerz&conId=cujljWfPrNp9hyqP1JtmFzE%3d to login","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null},{"text":"Until you do you are using the free version which will make less profit and your settings won't be saved","onClick":null,"hover":null},{"text":"\\n","onClick":null,"hover":null}]`,
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:18.897Z'
+}
+{
+  type: 'writeToChat',
+  data: '{"text":"[§1C§6oflnet§f]§7: §cWe could not determine your user account. Please make sure to login and try again. §b/cofl verify§7 will help you with that.","onClick":null,"hover":null}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:20.516Z'
+}
+{
+  level: 'info',
+  message: 'Joined SkyBlock',
+  timestamp: '2025-05-28T21:21:20.912Z'
+}
+{
+  type: 'flip',
+  data: '{"id":"86c3373cf45549eab7ccc7f0a655c028","startingBid":6399000,"purchaseAt":"2025-05-28T21:20:41.011Z","itemName":"§7[Lvl 100] §6Sheep§8!","target":7000000,"finder":"SNIPER_MEDIAN","profitPerc":7,"tag":"PET_SHEEP","vol":56.0}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:22.988Z'
+}
+{
+  type: 'flip',
+  data: '{"id":"624eceeef5114d498039be5ef8864da5","startingBid":2500000,"purchaseAt":"2025-05-28T21:20:37.455Z","itemName":"§9Bluetooth Ring§8!","target":2800000,"finder":"SNIPER_MEDIAN","profitPerc":9,"tag":"BLUETOOTH_RING","vol":46.0}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:23.025Z'
+}
+{
+  level: 'info',
+  message: 'Waited for grace period to end. Flips can now be bought.',
+  timestamp: '2025-05-28T21:21:26.427Z'
+}
+{
+  level: 'info',
+  message: 'Uploading inventory...',
+  timestamp: '2025-05-28T21:21:28.311Z'
+}
+{
+  type: 'flip',
+  data: '{"id":"1385bc19bc734380879334d4ba9f49d4","startingBid":19000000,"purchaseAt":"2025-05-28T21:20:33.891Z","itemName":"§dFleet Gemstone Gauntlet§8!","target":23176654,"finder":"SNIPER_MEDIAN","profitPerc":18,"tag":"GEMSTONE_GAUNTLET","vol":18.0}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:28.433Z'
+}
+{
+  level: 'info',
+  message: 'Currently busy with something else (purchasing) -> not claiming purchased item',
+  timestamp: '2025-05-28T21:21:28.519Z'
+}
+{
+  type: 'writeToChat',
+  data: '{"text":"[§1C§6oflnet§f]§7: §cWe could not determine your user account. Please make sure to login and try again. §b/cofl verify§7 will help you with that.","onClick":null,"hover":null}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:28.724Z'
+}
+{
+  level: 'info',
+  message: 'Currently busy with something else (purchasing) -> not claiming purchased item',
+  timestamp: '2025-05-28T21:21:29.520Z'
+}
+{
+  level: 'info',
+  message: 'Currently busy with something else (purchasing) -> not claiming purchased item',
+  timestamp: '2025-05-28T21:21:30.523Z'
+}
+{
+  level: 'info',
+  message: 'Currently busy with something else (purchasing) -> not claiming purchased item',
+  timestamp: '2025-05-28T21:21:31.525Z'
+}
+{
+  level: 'info',
+  message: 'Currently busy with something else (purchasing) -> not claiming purchased item',
+  timestamp: '2025-05-28T21:21:32.537Z'
+}
+{
+  type: 'flip',
+  data: '{"id":"ad3c49944c454d13b8082b75ce951ac9","startingBid":8299111,"purchaseAt":"2025-05-28T21:20:16.031Z","itemName":"§aParty Belt§8!","target":9299999,"finder":"SNIPER_MEDIAN","profitPerc":9,"tag":"PARTY_BELT","vol":33.0}',
+  level: 'debug',
+  timestamp: '2025-05-28T21:21:32.596Z'
+}
+{
+  error: Error: Server didn't respond to transaction for clicking on slot 31 on window with id 1.
+      at C:\Users\darie\Desktop\auto-flipper-2.0.1\node_modules\mineflayer\lib\plugins\inventory.js:634:17
+      at async EventEmitter.clickWindow (C:\Users\darie\Desktop\auto-flipper-2.0.1\node_modules\mineflayer\lib\plugins\inventory.js:632:25),
+  level: 'error',
+  message: "unhandledRejection: Server didn't respond to transaction for clicking on slot 31 on window with id 1.\n" +
+    "Error: Server didn't respond to transaction for clicking on slot 31 on window with id 1.\n" +
+    '    at C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:634:17\n' +
+    '    at async EventEmitter.clickWindow (C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:632:25)',
+  stack: "Error: Server didn't respond to transaction for clicking on slot 31 on window with id 1.\n" +
+    '    at C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:634:17\n' +
+    '    at async EventEmitter.clickWindow (C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:632:25)',
+  rejection: true,
+  date: 'Wed May 28 2025 14:21:32 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 13228,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v22.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\build\\BAF.js'
+    ],
+    memoryUsage: {
+      rss: 126840832,
+      heapTotal: 32768000,
+      heapUsed: 27745000,
+      external: 47854538,
+      arrayBuffers: 44449094
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 716715.328 },
+  trace: [
+    {
+      column: 17,
+      file: 'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js',
+      function: null,
+      line: 634,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js',
+      function: 'async EventEmitter.clickWindow',
+      line: 632,
+      method: 'clickWindow',
+      native: false
+    }
+  ],
+  timestamp: '2025-05-28T21:21:32.882Z'
+}
+{
+  error: Error: Server didn't respond to transaction for clicking on slot 31 on window with id 1.
+      at C:\Users\darie\Desktop\auto-flipper-2.0.1\node_modules\mineflayer\lib\plugins\inventory.js:634:17
+      at async EventEmitter.clickWindow (C:\Users\darie\Desktop\auto-flipper-2.0.1\node_modules\mineflayer\lib\plugins\inventory.js:632:25),
+  level: 'error',
+  message: "unhandledRejection: Server didn't respond to transaction for clicking on slot 31 on window with id 1.\n" +
+    "Error: Server didn't respond to transaction for clicking on slot 31 on window with id 1.\n" +
+    '    at C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:634:17\n' +
+    '    at async EventEmitter.clickWindow (C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:632:25)',
+  stack: "Error: Server didn't respond to transaction for clicking on slot 31 on window with id 1.\n" +
+    '    at C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:634:17\n' +
+    '    at async EventEmitter.clickWindow (C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js:632:25)',
+  rejection: true,
+  date: 'Wed May 28 2025 14:21:32 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 13228,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v22.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\build\\BAF.js'
+    ],
+    memoryUsage: {
+      rss: 126840832,
+      heapTotal: 32768000,
+      heapUsed: 27745000,
+      external: 47854538,
+      arrayBuffers: 44449094
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 716715.328 },
+  trace: [
+    {
+      column: 17,
+      file: 'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js',
+      function: null,
+      line: 634,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'C:\\Users\\darie\\Desktop\\auto-flipper-2.0.1\\node_modules\\mineflayer\\lib\\plugins\\inventory.js',
+      function: 'async EventEmitter.clickWindow',
+      line: 632,
+      method: 'clickWindow',
+      native: false
+    }
+  ],
+  timestamp: '2025-05-28T21:21:32.882Z'
+}
